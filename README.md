@@ -6,7 +6,7 @@ Use o "debug" via console.*
 - Set `DEBUG=console:*` or `DEBUG=console:KEY`
 
 ```javascript
-require('debugconsole')
+require('debug-console-js')
 console.log("Hi!") //DEBUG=console:log
 console.error("ERROR!") //DEBUG=console:error
 ```
@@ -21,7 +21,7 @@ or
 command line tools.
 
 ```sh
-npm install debugconsole --save
+npm install debug-console-js --save
 ```
 
 ## Dependencies

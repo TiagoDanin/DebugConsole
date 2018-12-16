@@ -1,5 +1,5 @@
 {
-  "name": "debugconsole",
+  "name": "debug-console-js",
   "main": "index.js",
   "version": "1.0.0",
   "description": "Use o \"debug\" via console.*",
