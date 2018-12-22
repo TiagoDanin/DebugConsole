@@ -31,6 +31,6 @@
   ],
   "devDependencies": {},
   "dependencies": {
-    "debug": "4.1.0"
+    "debug": "4.1.1"
   }
 }
