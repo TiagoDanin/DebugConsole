@@ -1,36 +1,36 @@
 {
-  "name": "debug-console-js",
-  "main": "index.js",
-  "version": "1.0.0",
-  "description": "Use o \"debug\" via console.*",
-  "author": {
-    "name": "Tiago Danin",
-    "email": "TiagoDanin@outlook.com",
-    "url": "https://TiagoDanin.github.io"
-  },
-  "license": "MIT",
-  "keywords": [
-    "debug",
-    "console",
-    "log"
-  ],
-  "scripts": {},
-  "private": false,
-  "repository": "https://github.com/TiagoDanin/DebugConsole.git",
-  "homepage": "https://TiagoDanin.github.io/DebugConsole",
-  "bugs": "https://github.com/TiagoDanin/DebugConsole/issues",
-  "github": {
-    "name": "DebugConsole",
-    "owner": "TiagoDanin"
-  },
-  "files": [
-    "LICENSE",
-    "README.md",
-    "index.js",
-    "package.json"
-  ],
-  "devDependencies": {},
-  "dependencies": {
-    "debug": "4.1.1"
-  }
+	"name": "debug-console-js",
+	"main": "index.js",
+	"version": "1.0.0",
+	"description": "Use o \"debug\" via console.*",
+	"author": {
+		"name": "Tiago Danin",
+		"email": "TiagoDanin@outlook.com",
+		"url": "https://TiagoDanin.github.io"
+	},
+	"license": "MIT",
+	"keywords": [
+		"debug",
+		"console",
+		"log"
+	],
+	"scripts": {},
+	"private": false,
+	"repository": "https://github.com/TiagoDanin/DebugConsole.git",
+	"homepage": "https://TiagoDanin.github.io/DebugConsole",
+	"bugs": "https://github.com/TiagoDanin/DebugConsole/issues",
+	"github": {
+		"name": "DebugConsole",
+		"owner": "TiagoDanin"
+	},
+	"files": [
+		"LICENSE",
+		"README.md",
+		"index.js",
+		"package.json"
+	],
+	"devDependencies": {},
+	"dependencies": {
+		"debug": "^4.1.1"
+	}
 }
